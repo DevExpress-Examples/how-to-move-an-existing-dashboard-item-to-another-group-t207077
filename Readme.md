@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to move an existing dashboard item to another group
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t207077)**
+**[[Run Online]](https://codecentral.devexpress.com/t207077/)**
 <!-- run online end -->
 
 
